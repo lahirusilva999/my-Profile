@@ -35,7 +35,7 @@
     <a href="https://creativecloud.adobe.com/" target="_blank" rel="noreferrer">
         <img src="./icons/adobe/Adobe_Creative_Cloud_rainbow.png" alt="adobe" width="40" height="40"/>
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
         <img src="./icons/html5/html5-original-wordmark.png" alt="html5" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -53,7 +53,7 @@
     <a href="https://angular.dev/" target="_blank" rel="noreferrer">
         <img src="./icons/angular/5847ea22cef1014c0b5e4833.png" alt="angular" width="40" height="40"/>
     </a>
-    <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+    <a href="https://wordpress.org/download/" target="_blank" rel="noreferrer">
         <img src="./icons/wordpress/Wordpress_Blue_logo.png" alt="wordpress" width="40" height="40"/>
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
